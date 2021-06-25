@@ -1,4 +1,4 @@
-# fltr_firebase
+# Firebase Demo
 
 A new Flutter project.
 
